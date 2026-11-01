@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "claude-cert-developer",
+  "title": "Claude Developer Practice",
+  "description": "Unofficial Claude Certified Developer – Foundations (CCDV-F) practice: Matthew Purcell's full practice question set, with rationales, used with his permission.",
+  "homeSubtitle": "Developer Foundations — build on Claude.",
+  "themeColor": "#8a3b12",
+  "categories": [
+    {
+      "key": "agents-workflows",
+      "label": "Agents and Workflows",
+      "shortLabel": "Agents",
+      "icon": "🤖",
+      "weight": 0.147
+    },
+    {
+      "key": "applications-integration",
+      "label": "Applications and Integration",
+      "shortLabel": "Apps & Integration",
+      "icon": "🔌",
+      "weight": 0.331
+    },
+    {
+      "key": "claude-code",
+      "label": "Claude Code",
+      "shortLabel": "Claude Code",
+      "icon": "💻",
+      "weight": 0.031
+    },
+    {
+      "key": "eval-testing",
+      "label": "Eval, Testing, and Debugging",
+      "shortLabel": "Eval & Testing",
+      "icon": "🧪",
+      "weight": 0.026
+    },
+    {
+      "key": "model-selection",
+      "label": "Model Selection and Optimization",
+      "shortLabel": "Models",
+      "icon": "🧭",
+      "weight": 0.168
+    },
+    {
+      "key": "prompt-context",
+      "label": "Prompt and Context Engineering",
+      "shortLabel": "Prompting",
+      "icon": "✍️",
+      "weight": 0.11
+    },
+    {
+      "key": "security-safety",
+      "label": "Security and Safety",
+      "shortLabel": "Security",
+      "icon": "🛡️",
+      "weight": 0.081
+    },
+    {
+      "key": "tools-mcp",
+      "label": "Tools and MCPs",
+      "shortLabel": "Tools & MCP",
+      "icon": "🧰",
+      "weight": 0.106
+    }
+  ],
+  "papersLabel": "Practice exams",
+  "papers": [
+    {
+      "key": "purcell-ccdv-f",
+      "label": "CCDV-F practice exam",
+      "series": "Matthew Purcell"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Purcell",
+      "name": "Matthew Purcell (53)",
+      "blurb": "His Claude Certified Developer – Foundations full practice question set, written against Anthropic's public exam guide. Used with his permission.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7484728794990354432/"
+    }
+  ],
+  "upgrade": {
+    "title": "Next up: Claude Architect – Foundations",
+    "url": "https://claude-cert.quizmill.dev",
+    "blurb": "Practise the five CCAR-F exam domains: scenario-based multiple-choice and multi-answer questions, each with a rationale."
+  }
+}
