@@ -2,8 +2,7 @@
 
 ## Matthew Purcell — Claude Certified Developer – Foundations Full Practice Question Set (paper `purcell-ccdv-f`)
 
-All 53 questions in `questions.json` are adapted, with the author's
-permission, from Matthew Purcell's free *Claude Certified Developer – Foundations Full Practice
+All 53 questions in `questions.json` are adapted from Matthew Purcell's free *Claude Certified Developer – Foundations Full Practice
 Question Set*, shared publicly on LinkedIn:
 
 - <https://www.linkedin.com/in/purcellmatthew>

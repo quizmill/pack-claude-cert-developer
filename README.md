@@ -10,8 +10,7 @@ practice app.
 ## What's in it
 
 **53 questions** (45 single-answer, 8 "select TWO") from
-Matthew Purcell's [CCDV-F full practice question set](https://www.linkedin.com/feed/update/urn:li:activity:7484728794990354432/), used
-with his permission. It matches the live exam's item count, weighted to the
+Matthew Purcell's [CCDV-F full practice question set](https://www.linkedin.com/feed/update/urn:li:activity:7484728794990354432/). It matches the live exam's item count, weighted to the
 exam blueprint, with his rationale on every answer. The app offers it as the paper
 "CCDV-F practice exam"; the domains below are also practised one by one.
 

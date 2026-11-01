@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "id": "claude-cert-developer",
   "title": "Claude Developer Practice",
-  "description": "Unofficial Claude Certified Developer – Foundations (CCDV-F) practice: Matthew Purcell's full practice question set, with rationales, used with his permission.",
+  "description": "Unofficial Claude Certified Developer – Foundations (CCDV-F) practice: Matthew Purcell's full practice question set, with rationales.",
   "homeSubtitle": "Developer Foundations — build on Claude.",
   "themeColor": "#8a3b12",
   "categories": [
@@ -75,7 +75,7 @@
     {
       "label": "Purcell",
       "name": "Matthew Purcell (53)",
-      "blurb": "His Claude Certified Developer – Foundations full practice question set, written against Anthropic's public exam guide. Used with his permission.",
+      "blurb": "His Claude Certified Developer – Foundations full practice question set, written against Anthropic's public exam guide.",
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7484728794990354432/"
     }
   ],
